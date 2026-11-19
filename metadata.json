@@ -1,0 +1,6 @@
+{
+  "name": "Kemanain",
+  "description": "Prototipe UI Material Design 3 dan sistem tema untuk aplikasi pencatatan keuangan harian dan kalender pengeluaran Kemanain.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
